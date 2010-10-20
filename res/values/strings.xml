@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, rebootButton!</string>
+    <string name="app_name">Reboot Button</string>
+    <string name="buttonHandler">myClickHandler</string>
+    <string name="reason">recovery</string>
+    <string name="rbutton">Reboot Button</string>
+    <string name="voodo_filename">disable_lagfix</string>
+    <string name="credits">Thanks for choosing Reboot Button with VooDoo toggle by Zennmaster!</string>
+</resources>

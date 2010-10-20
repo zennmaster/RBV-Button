@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+
+
+
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enable/Disable VooDoo"></TextView>
+
+<ToggleButton android:text="@+id/ToggleButton01" android:id="@+id/ToggleButton01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:clickable="true" android:textOff="Voodoo Off" android:textOn="Voodoo On"></ToggleButton>
+
+
+
+
+<Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/RBNowButton" android:text="Reboot Now"></Button>
+<Button android:text="Reboot to Recovery" android:id="@+id/RBRcvButton" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+</LinearLayout>
